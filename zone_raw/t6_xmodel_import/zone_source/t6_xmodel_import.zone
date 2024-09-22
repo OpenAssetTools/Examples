@@ -1,0 +1,9 @@
+>game,T6
+>type,fastfile
+>name,mod
+
+// Techsets should be loaded before this mod
+ignore,common_mp
+
+localize,banana
+weapon,ballista_mp

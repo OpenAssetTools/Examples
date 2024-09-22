@@ -1,0 +1,12 @@
+{
+    "_type": "xmodel",
+    "_version": 1,
+    "collLod": -1,
+    "flags": 0,
+    "lods": [
+        {
+            "distance": 1000.0,
+            "file": "model_export/viewmodel_m16_iw5_lod0.GLB"
+        }
+    ]
+}
