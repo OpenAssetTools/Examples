@@ -5,7 +5,7 @@ This example demonstrates how to import a GLTF model into Modern Warfare 3.
 ## Build
 
 ```shell
-$IW5_FOLDER='path/to/your/iw5/installation' # Insert your path here
+IW5_FOLDER='path/to/your/iw5/installation' # Insert your path here
 Linker -v --load $IW5_FOLDER/zone/english/common_mp.ff iw5_xmodel_import
 ```
 
